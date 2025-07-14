@@ -12,8 +12,9 @@ Nasıl Çalıştırılır?
 
 4. Terminalde python main.py komutunu çalıştırın. Uygulamayı çalıştırdığınızda, komut satırı aracılığıyla aşağıdaki gibi etkileşime gireceksiniz; istenen bilgileri (alıcı adresi, mesaj) girin.
    
-Alıcının e-posta adresini girin: alici@example.com
-Mesajı girin: Merhaba, bu bir test e-postasıdır! Python uygulamamdan gönderildi.
+   Alıcının e-posta adresini girin: alici@example.com
+
+   Mesajı girin: Merhaba, bu bir test e-postasıdır! Python uygulamamdan gönderildi.
 
 6. E-posta başarıyla gönderildi!
 
